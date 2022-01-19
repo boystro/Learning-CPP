@@ -54,4 +54,12 @@ int main() {
 	}
 
 	std::cout << "Marks: " << marks << " | Grade: " << grade << std::endl;
+
+	// Ternary operations
+	// Conditional statements, but written different
+
+	bool condition = true;
+
+	std::cout << (condition ? "Condition is true" : "Condition is false") << std::endl;
+
 }
