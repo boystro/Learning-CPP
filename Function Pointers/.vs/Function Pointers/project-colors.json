@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f45bc9f7-5c96-46c6-8cef-13d67dcf6c00": {
+      "ProjectGuid": "f45bc9f7-5c96-46c6-8cef-13d67dcf6c00",
+      "DisplayName": "Function Pointers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
