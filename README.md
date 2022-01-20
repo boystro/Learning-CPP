@@ -26,3 +26,5 @@ In order to setup the IDE first download __Visual Studio Installer__ and install
 11. Modular
 11. Templates
 12. Macros
+13. Function Pointers
+14. Lambdas
