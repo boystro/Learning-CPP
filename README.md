@@ -28,3 +28,5 @@ In order to setup the IDE first download __Visual Studio Installer__ and install
 12. Macros
 13. Function Pointers
 14. Lambdas
+15. Namespaces
+16. Threading
