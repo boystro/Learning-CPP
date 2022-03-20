@@ -32,6 +32,6 @@ int main() {
 	std::cout << *ptr_a << std::endl;	// This will print the value of a
 	std::cout << ptr_a << std::endl;	// This will print the memory address of a
 	std::cout << &a << std::endl;		// This will also print the memory address of a
-	std::cout << *(&a) << std::endl;	// This will print the value of a
+	std::cout << *(&a) << std::endl;	// This will print the value of a   
 
 }
